@@ -1,5 +1,6 @@
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/gaopu/Java.svg)](https://starchart.cc/gaopu/Java)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frealize096%2FJava.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frealize096%2FJava?ref=badge_shield)
 
 ## 这个仓库内的代码是什么东西
 都是以前上大学时自己写的一些东西，有的为了交作业，有的为了玩😊。
@@ -12,3 +13,7 @@
 
 ## 最后
 我这里放一个腾讯云私人推广链接，有需要搭建博客、搭建私人在线服务进行学习的朋友可以逛逛看，😀。我的私人博客是用[腾讯云](https://curl.qcloud.com/Kr4BAQsb)搭建的，我的是2核4G8M，最近免费给升级成4核8G8M。欢迎大家访问我的私人博客，[www.geekgao.cn](https://www.geekgao.cn)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frealize096%2FJava.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frealize096%2FJava?ref=badge_large)
